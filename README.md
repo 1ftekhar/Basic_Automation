@@ -1,2 +1,2 @@
-# Currency-converter
-A currency converter in python
+# Basic_Automation
+Some basic automation projects.
